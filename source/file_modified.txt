@@ -1,0 +1,27 @@
+list of file modified or added from Unitex 2.1 distribution:
+
+Contain the revision number from SVN distribution:
+Unitex_revision.h
+
+Java source file of import class:
+UnitexLibAndJni/fr/umlv/unitex/jni/UnitexJni.java
+
+C++ source for the Jni library
+UnitexLibAndJni/fr_umlv_unitex_jni_UnitexJni.cpp
+UnitexLibAndJni/fr_umlv_unitex_jni_UnitexJni.h
+UnitexLibAndJni/UnitexLibDir.h
+UnitexLibAndJni/UnitexLibIO.h
+UnitexLibAndJni/UnitexLibDirPosix.cpp
+UnitexLibAndJni/UnitexLibDirWin.cpp
+UnitexLibAndJni/UnitexLibIO.cpp
+
+Updated Makefile:
+build/Makefile
+
+Visual Studio 2010 project:
+build/UnitexLibAndJni.vcxproj
+build/UnitexLibAndJni.vcxproj.filters
+build/UnitexToolAndLib_vs2010.sln
+
+Apple MacOsX Xcode project:
+build/UnitexLibAndJni.xcodeproj/project.pbxproj

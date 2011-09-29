@@ -1,0 +1,13 @@
+
+Mac OSX binary library (Power PC 32 bits, Intel x86 and x64)
+libUnitexLibAndJni.dylib
+
+Linux 32 bits binary library
+libUnitexLibAndJni.so
+
+Windows 32 bits binary library
+UnitexLibAndJni.dll
+
+Windows 64 bits binary library
+win_x64\UnitexLibAndJni.dll
+

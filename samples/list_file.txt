@@ -1,0 +1,24 @@
+
+
+demojnires\ : contain somes resource used for demo
+
+Java class for import the native library:
+fr\umlv\unitex\jni\UnitexLibAndJni.class
+fr\umlv\unitex\jni\UnitexLibAndJni.java
+
+script for runing demo under MS Windows
+startLibraryAndJniDemo.bat
+
+script for runing demo under MacOSX or Linux
+startLibraryAndJniDemo.sh
+
+
+for trying running the sample
+Under Windows:
+
+startLibraryAndJniDemo.bat .\demojnires . 1
+
+Under MacOsX / Linux
+./startLibraryAndJniDemo.sh ./demojnires . 1
+
+you may have to change file access right or directory from the script
